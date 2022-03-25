@@ -1,0 +1,12 @@
+{
+  "name": "Virtual-DOM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Anita-Mul/Virtual-DOM.git",
+  "author": "小可爱 <2659580957@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "list-diff2": "^0.1.4"
+  },
+  "type": "module"
+}
